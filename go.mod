@@ -20,7 +20,7 @@ require (
 	github.com/Venafi/vcert v0.0.0-20190613103158-62139eb19b25
 	github.com/armon/go-metrics v0.0.0-20180917152333-f0300d1749da // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
-	github.com/aws/aws-sdk-go v1.24.1
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/bitly/go-hostpool v0.0.0-20171023180738-a3a6125de932 // indirect
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/cenkalti/backoff v2.1.1+incompatible // indirect
@@ -34,7 +34,6 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/go-logr/logr v0.1.0
 	github.com/go-logr/zapr v0.1.1 // indirect
-	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/gocql/gocql v0.0.0-20190402132108-0e1d5de854df // indirect
 	github.com/google/btree v1.0.0 // indirect
 	github.com/google/go-github v17.0.0+incompatible
@@ -72,16 +71,16 @@ require (
 	github.com/ory/dockertest v3.3.4+incompatible // indirect
 	github.com/pascaldekloe/goe v0.1.0 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.0.0
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	github.com/sethgrid/pester v0.0.0-20190127155807-68a33a018ad0 // indirect
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.3
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.5.1
 	github.com/tent/http-link-go v0.0.0-20130702225549-ac974c61c2f9 // indirect
 	golang.org/x/crypto v0.0.0-20191202143827-86a70503ff7e
-	golang.org/x/net v0.0.0-20190812203447-cdfb69ac37fc
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	google.golang.org/api v0.4.0
